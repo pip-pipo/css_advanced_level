@@ -1,0 +1,17 @@
+.container {
+  background: rgb(255, 255, 255);
+  width: 100%;
+  height: 10vh;
+  -webkit-box-shadow: 5px 4px 11px -2px #6044ff;
+  box-shadow: 5px 4px 11px -2px #6044ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 1.50rem;
+}
+body{
+    background: rgb(235, 235, 235);
+    margin: 0;
+    padding: 0;
+}
